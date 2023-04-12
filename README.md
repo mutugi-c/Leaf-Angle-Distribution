@@ -23,7 +23,7 @@
 
 # 📖 Leaf-Angle-Distribution <a name="about-project"></a>
 
-This repository contains algorithms aimed at automating processes of obtaining leaf angle distribution information from Terrestrial Laser Scanning (TLS) datasets.
+This repository contains algorithms aimed at automating processes of obtaining leaf angle distribution information from Terrestrial Laser Scanning (TLS) or LiDAR datasets.
 
 ## 🛠 Built With <a name="built-with"></a>
 
